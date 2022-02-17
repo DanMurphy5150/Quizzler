@@ -28,6 +28,7 @@ class QuizBrain {
     Question(
         'In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.',
         true),
+    Question('3 plus 3 is equal to 6', true),
   ];
 
   void nextQuestion() {
